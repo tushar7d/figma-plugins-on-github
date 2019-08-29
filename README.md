@@ -81,6 +81,9 @@ https://github.com/nitinrgupta/figmoji
 #### Reverse layer order
 https://github.com/mikegowen/figma-reverse-layer-order
 
+#### Cover Generator
+https://github.com/tushar7d/CoverGenerator-figma-plugin
+
 
 
 ## Resources
